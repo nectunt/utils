@@ -1,4 +1,4 @@
-package windows
+package utils
 
 import (
 	"os/exec"
